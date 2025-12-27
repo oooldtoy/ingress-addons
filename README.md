@@ -10,7 +10,9 @@ ingress opr 手机优化插件
 
 键盘控制插件源自上游 [https://github.com/tehstone/wayfarer-addons]([https://](https://github.com/tehstone/wayfarer-addons))
 
+手机优化插件源自gemini
+
 效果如图
 
-![UI](https://raw.githubusercontent.com/oooldtoy/ingress-addons/main/pic/photo_2025-12-25_16-53-53.jpg)
+![UI](https://github.com/oooldtoy/ingress-addons/blob/main/pic%2FScreenshot_2025-12-27-13-15-17-35_3aea4af51f236e4932235fdada7d1643.jpg)
 

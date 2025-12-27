@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Wayfarer 触屏助手
+// @name         opr 触屏助手
 // @namespace    http://tampermonkey.net/
 // @version      2.6
 // @description  按钮自下而上排列：Enter, 1, 2, 3，顶部为拖动手柄
